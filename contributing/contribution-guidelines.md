@@ -1,3 +1,7 @@
+---
+description: How to contribute to Nuclear
+---
+
 # Contribution guidelines
 
 ## Contributing to Nuclear

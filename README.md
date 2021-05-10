@@ -4,11 +4,11 @@
 
 Nuclear is a free music streaming program that pulls content from free sources all over the internet.
 
-This means that you can search for your favorite artists, albums, and songs, and the player will find information about these, as well as song streams aggregating data from multiple sources.
+This means that you can search for your favorite artists, albums, and songs, and the player will find information about them, as well as song streams, aggregating data from multiple sources.
 
 #### Developer resources
 
-* [Plugin API](plugins.md)
+* [Plugin API](developer-resources/plugin-api.md)
 
 #### Links
 
@@ -19,6 +19,7 @@ This means that you can search for your favorite artists, albums, and songs, and
 | Gitbook | [https://nukeop.gitbook.io/nuclear/](https://nukeop.gitbook.io/nuclear/) |
 | Mastodon | [https://mstdn.io/@nuclear](mailto:https://mstdn.io/@nuclear) |
 | Twitter | [https://twitter.com/nuclear\_player](https://twitter.com/nuclear_player) |
+| Discord | [https://discord.gg/JqPjKxE](https://discord.gg/JqPjKxE) |
 
 **Packages**
 
