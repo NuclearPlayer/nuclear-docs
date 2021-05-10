@@ -53,3 +53,5 @@ Replace `<version>` with a string that will be added to the filenames of the bui
 
 Replace `<platform>` with the name of your platform: `linux`, `macos`, `windows` or `all`.
 
+The binaries will be created in `<root>/release`.
+
