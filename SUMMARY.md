@@ -4,6 +4,7 @@
 
 ## Developer resources
 
+* [Development process](developer-resources/development-process.md)
 * [Architecture](developer-resources/architecture.md)
 * [Plugin API](developer-resources/plugin-api.md)
 
