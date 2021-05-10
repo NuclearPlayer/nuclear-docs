@@ -6,7 +6,7 @@ description: How to contribute to Nuclear
 
 ## Contributing to Nuclear
 
-There are many ways to contribute to the Nuclear project: logging bugs, submitting pull requests, reporting issues, and creating suggestions.
+There are many ways to contribute to the Nuclear project: logging bugs, submitting pull requests, reporting issues, creating suggestions, and many others.
 
 After cloning and building the repo, check out the [issues list](https://github.com/nukeop/nuclear/issues). Issues labeled `good first issue` are good candidates to pick up if you are contributing for the first time. If you are contributing significant changes, please discuss it in the issue first before starting to work on it.
 
@@ -21,4 +21,6 @@ Before you commit your code:
 * If you're fixing a bug, or adding a new functionality, please create tests covering your changes. Look at the existing tests in each package or ask us on Github or Discord if you're unsure how to do it.
 * If you're adding visual components in the `ui` package, please create snapshot tests for them. Most components there already have snapshot tests, take a look at them to see how they should look.
 * Add new visual components to Storybook \(`*.stories.tsx` files\). It's nice if you can also show us some screenshots in the pull request for reference.
+
+
 

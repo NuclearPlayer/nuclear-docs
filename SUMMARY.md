@@ -4,6 +4,7 @@
 
 ## Developer resources
 
+* [Architecture](developer-resources/architecture.md)
 * [Plugin API](developer-resources/plugin-api.md)
 
 ## Contributing

@@ -4,7 +4,11 @@ description: How to use the built-in Plugin API
 
 # Plugin API
 
-User plugins are supported in the form of arbitrary js files, which can be loaded at runtime. Obviously, plugins should be loaded only from trusted sources, because they can run arbitrary code.
+User plugins are supported in the form of arbitrary js files, which can be loaded at runtime. 
+
+{% hint style="warning" %}
+Plugins should be loaded only from trusted sources, because they can run arbitrary code.
+{% endhint %}
 
 As plugins are loaded, they are transpiled with Babel using `@babel/preset-env` and `@babel/preset-react`. This enables plugin developers to use React to render custom UI, and use modern ES syntax.
 
