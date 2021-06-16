@@ -15,3 +15,10 @@
 * [Contribution guidelines](contributing/contribution-guidelines.md)
 * [Translating](contributing/translating.md)
 
+## Nuclear Web Services
+
+* [About](nuclear-web-services/about.md)
+* [APIs](nuclear-web-services/apis/README.md)
+  * [Identity service](nuclear-web-services/apis/identity-service/README.md)
+    * [/users](nuclear-web-services/apis/identity-service/users.md)
+
