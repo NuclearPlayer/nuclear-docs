@@ -1,6 +1,6 @@
 # /users
 
-{% api-method method="get" host="https://api.cakes.com" path="/users/:id" %}
+{% api-method method="get" host="" path="/users/:id" %}
 {% api-method-summary %}
 Get user
 {% endapi-method-summary %}
