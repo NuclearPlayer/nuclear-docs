@@ -2,6 +2,10 @@
 
 * [Nuclear Music Player](README.md)
 
+## User manual
+
+* [Keyboard shortcuts](user-manual/keyboard-shortcuts.md)
+
 ## Developer resources
 
 * [Development process](developer-resources/development-process/README.md)
