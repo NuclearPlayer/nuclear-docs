@@ -1,9 +1,10 @@
-# Importing playlist
+# Importing playlists
 
-## By Json File
-You can import a json playlist file as the following structure:
+## By JSON File
 
-```json
+You can import a JSON playlist file with the following structure:
+
+```javascript
   {
     "name": "playlist name",
     "numberOfTrack": 105,
@@ -28,12 +29,14 @@ You can import a json playlist file as the following structure:
   }
 ```
 
-- `source` and `id` fields help Nuclear pull correctly track from `stream provider`.
-- `streams` field only need when you don't define `source` field in the top level. This happens when the playlist is not from a single source.
+* `source` and `id` fields help Nuclear pull streams correctly from `stream provider`.
+* `streams` field is only needed when you don't define the `source` field at the top level. This happens when the playlist is not from a single source.
 
 ## Spotify / Youtube
-You can use this tool (https://github.com/HaiDang666/extract-sptf-playlist) to extract the json playlist file from spotify and youtube, after downloading, the simplest way is editing the url in `example.js`.
 
+You can use this tool \([https://github.com/HaiDang666/extract-sptf-playlist](https://github.com/HaiDang666/extract-sptf-playlist)\) to extract the JSON playlist file from Spotify and Youtube. After downloading, the simplest way is to edit the url in `example.js`.
 
-## By Url 
-comming soon
+## By Url
+
+Will be implemented as a part of Nuclear Web Services.
+
