@@ -5,6 +5,7 @@
 ## User manual
 
 * [Keyboard shortcuts](user-manual/keyboard-shortcuts.md)
+* [Importing playlists](user-manual/importing-playlists.md)
 
 ## Developer resources
 
