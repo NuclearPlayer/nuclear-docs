@@ -4,7 +4,7 @@ description: Guidelines for converting existing Javascript code to Typescript
 
 # Converting to Typescript
 
-This is a checklist of hard requirements for old code that's being conerted from Javascript to Typescript.
+This is a checklist of hard requirements for old code that's being converted from Javascript to Typescript.
 
 Change the file extensions from `.js` to `.tsx` or `.ts` as appropriate \(`.tsx` is for files containing JSX, so anything that has React markup\). The directory for a component needs to be named the same as the component itself.
 
