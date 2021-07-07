@@ -18,6 +18,7 @@
 ## Contributing
 
 * [Contribution guidelines](contributing/contribution-guidelines.md)
+* [Converting to Typescript](contributing/converting-to-typescript.md)
 * [Translating](contributing/translating.md)
 
 ## Nuclear Web Services
