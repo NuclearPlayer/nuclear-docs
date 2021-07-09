@@ -19,6 +19,7 @@
 
 * [Contribution guidelines](contributing/contribution-guidelines.md)
 * [Converting to Typescript](contributing/converting-to-typescript.md)
+* [Committing and resolving merge conflicts](contributing/committing-and-resolving-merge-conflicts.md)
 * [Translating](contributing/translating.md)
 
 ## Nuclear Web Services
