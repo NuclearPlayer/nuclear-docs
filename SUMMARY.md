@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Nuclear Music Player](README.md)
+* [FAQ](faq.md)
 
 ## User manual
 
