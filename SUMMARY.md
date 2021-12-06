@@ -7,6 +7,7 @@
 
 * [Keyboard shortcuts](user-manual/keyboard-shortcuts.md)
 * [Importing playlists](user-manual/importing-playlists.md)
+* [Instructions](user-manual/instructions.md)
 
 ## Developer resources
 
