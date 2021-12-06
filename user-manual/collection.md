@@ -4,34 +4,34 @@
 
 You can add or delete albums to the list by clicking the star button.
 
-![Add Favorite Albums](https://i.imgur.com/xVp5iFO.png)
+![Add to Favorite Albums](https://i.imgur.com/MNtKRIK.png)
 
-![Add Favorite Albums](https://i.imgur.com/MEhlTDM.png)
+![Favorite Albums](https://i.imgur.com/61GWuLU.png)
 
 ## Favorite Tracks
 
 You can add tracks to the favorite list from the searched tracks results or queues.
 
-![Add Favorite Albums](https://i.imgur.com/hLUlyzM.png)
+![Add to Favorite Tracks](https://i.imgur.com/k3PFv8m.png)
 
-![Add Favorite Albums](https://i.imgur.com/Xwe2wSu.png)
+![Favorite Tracks](https://i.imgur.com/m0kuPXg.png)
 
 ## Favorite Artists
 
 You can add it to the list by clickling the heart button of your favorite artists.
 
-![Add Favorite Albums](https://i.imgur.com/mBneAZw.png)
+![Add to Favorite Artists](https://i.imgur.com/VwHts6b.png)
 
-![Add Favorite Albums](https://i.imgur.com/vfUUQI9.png)
+![Favorite Artists](https://i.imgur.com/X2u81Vw.png)
 
 ## Playlists
 
 Make a playlist and add tracks.
 
-![Creat New Playlist](https://i.imgur.com/ryZZb9X.png)
+![Creat a New Playlist](https://i.imgur.com/9MAfmoI.png)
 
-![Creat New Playlist](https://i.imgur.com/J1yCg6G.png)
+![Add to Playlist](https://i.imgur.com/xJ2mi1K.png)
 
-![Creat New Playlist](https://i.imgur.com/eQQsOgQ.png)
+![Playlist](https://i.imgur.com/W9iCB7I.png)
 
-* [Importing playlists](user-manual/importing-playlists.md)
+importing playlists : [Importing playlists](user-manual/importing-playlists.md)
