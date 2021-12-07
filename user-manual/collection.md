@@ -34,4 +34,4 @@ Make a playlist and add tracks.
 
 ![Playlist](https://i.imgur.com/W9iCB7I.png)
 
-importing playlists : [Importing playlists](user-manual/importing-playlists.md)
+* [How to import playlists](https://nukeop.gitbook.io/nuclear/user-manual/importing-playlists)
