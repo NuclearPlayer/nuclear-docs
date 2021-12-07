@@ -24,6 +24,12 @@ You can add it to the list by clickling the heart button of your favorite artist
 
 ![Favorite Artists](https://i.imgur.com/X2u81Vw.png)
 
+## Local Library
+
+Upload a folder containing track files.
+
+![Local Library](https://i.imgur.com/QWRCHhc.png)
+
 ## Playlists
 
 Make a playlist and add tracks.
