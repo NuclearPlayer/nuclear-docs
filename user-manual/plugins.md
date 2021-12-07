@@ -16,6 +16,8 @@ You can select stream, metadata, lyrics providers in Plugins menu. Also, you can
 
 ## Metadata providers
 
+You can quickly change this from the right side of the search box.
+
 * Audius Meta Provider
 * Discogs Meta Provider
 * Musicbrainz Meta Provider
