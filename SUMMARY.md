@@ -5,10 +5,11 @@
 
 ## User manual
 
-* [Keyboard shortcuts](user-manual/keyboard-shortcuts.md)
-* [Importing playlists](user-manual/importing-playlists.md)
 * [Instructions](user-manual/instructions.md)
 * [Collection](user-manual/collection.md)
+* [Importing playlists](user-manual/importing-playlists.md)
+* [Plugins](user-manual/plugins.md)
+* [Keyboard shortcuts](user-manual/keyboard-shortcuts.md)
 
 ## Developer resources
 
