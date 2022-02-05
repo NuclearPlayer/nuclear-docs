@@ -34,7 +34,7 @@ You can import a JSON playlist file with the following structure:
 
 ## Spotify / Youtube
 
-[https://github.com/HaiDang666/extract-sptf-playlis](https://github.com/HaiDang666/extract-sptf-playlist)[https://github.com/](https://github.com/NuclearPlayer/extract-sptf-playlist)You can use this tool ([https://github.com/NuclearPlayer/extract-sptf-playlist](https://github.com/NuclearPlayer/extract-sptf-playlist)​) to extract the JSON playlist file from Spotify and Youtube.\
+You can use this tool ([https://github.com/NuclearPlayer/extract-sptf-playlist](https://github.com/NuclearPlayer/extract-sptf-playlist)​) to extract the JSON playlist file from Spotify and Youtube.\
 This tool uses puppeteer package to fetch data and requires nodejs in your system.) to extract the JSON playlist file from Spotify and Youtube.\
 This tool uses puppeteer package to fetch data and requires nodejs in your system.[nodejs](https://nodejs.org/en/) in your system.
 
