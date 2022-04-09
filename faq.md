@@ -32,7 +32,7 @@ Here's which ones you should get on each platform, and what the differences betw
 
 This is an installer for Windows, which starts a standard installation wizard.
 
-#### nuclear-v0.6.16.exe
+#### nuclear-\<version>.exe
 
 This is a portable version, meaning the entire program is contained within a single file.
 
