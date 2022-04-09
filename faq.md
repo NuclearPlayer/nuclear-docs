@@ -6,19 +6,29 @@ description: Frequently asked questions
 
 ## Is there an Android/iOS version?
 
-No. Apple's and Google's stores would **never** accept Nuclear in event the simplest possible form. Sideloading on both platforms is possible but hard for most people, and mobile phones are user-hostile platforms.   
-  
+No. Apple's and Google's stores would **never** accept Nuclear in event the simplest possible form. Sideloading on both platforms is possible but hard for most people, and mobile phones are user-hostile platforms. \
+\
 While at some point we might release a mobile version with limited functionality, it's not a priority right now. I don't have a smartphone and I'm not planning to get one, so my familiarity with mobile programs and their usage patterns is poor.
 
 ## Which file do I download?
 
 Every file contains the same version of Nuclear, there are no functional differences.
 
+First, click "Releases":
+
+![](.gitbook/assets/image.png)
+
+You will see a list of releases. Find the most recent one (at the top), and click "Assets".
+
+![](<.gitbook/assets/image (1).png>)
+
+You will see a list of files. You only need one of those files.
+
 Here's which ones you should get on each platform, and what the differences between them are:
 
 ### **Windows:**
 
-#### **nuclear.Setup.&lt;version&gt;.exe**
+#### **nuclear.Setup.\<version>.exe**
 
 This is an installer for Windows, which starts a standard installation wizard.
 
@@ -51,6 +61,4 @@ This is an archive containing compressed binary files and other assets. It shoul
 ### MacOS
 
 On Mac, you should download the .dmg, .pkg, or .zip package. They should all work the same way.
-
-
 

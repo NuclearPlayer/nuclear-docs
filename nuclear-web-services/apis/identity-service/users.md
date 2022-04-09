@@ -1,29 +1,15 @@
 # /users
 
-{% api-method method="get" host="" path="/users/:id" %}
-{% api-method-summary %}
-Get user
-{% endapi-method-summary %}
-
-{% api-method-description %}
+{% swagger baseUrl="" path="/users/:id" method="get" summary="Get user" %}
+{% swagger-description %}
 Retrieves a user.
-{% endapi-method-description %}
+{% endswagger-description %}
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="id" type="string" required=true %}
+{% swagger-parameter in="path" name="id" type="string" %}
 User uuid
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
+{% endswagger-parameter %}
 
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="" %}
 ```
 {
   id: string;
@@ -32,10 +18,6 @@ User uuid
   email: string;
 }
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
-
+{% endswagger-response %}
+{% endswagger %}
 
