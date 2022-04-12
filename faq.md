@@ -64,3 +64,8 @@ This is an archive containing compressed binary files and other assets. It shoul
 
 On Mac, you should download the .dmg, .pkg, or .zip package. They should all work the same way.
 
+## Where can I find plugins?
+
+Currently, there is no single centralized place for plugins. You can find some by searching on Github, but the plugins feature is not very popular and there aren't that many. We're working on changing that, so if you make a plugin, make sure to let us know. There is also a channel for sharing plugins on Discord.
+
+We want to create more sample plugins in the future as examples for plugin creators to base their work on.
