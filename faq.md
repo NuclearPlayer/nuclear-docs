@@ -10,6 +10,8 @@ No. Apple's and Google's stores would **never** accept Nuclear in event the simp
 \
 While at some point we might release a mobile version with limited functionality, it's not a priority right now. I don't have a smartphone and I'm not planning to get one, so my familiarity with mobile programs and their usage patterns is poor.
 
+Another kind of problem is posed by the fact that the libraries we use for retrieving audio streams depend on network APIs that are only available on desktop, and it would be particularly hard to reproduce their behavior on mobile phones.
+
 ## Which file do I download?
 
 Every file contains the same version of Nuclear, there are no functional differences.
