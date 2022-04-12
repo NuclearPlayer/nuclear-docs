@@ -69,3 +69,11 @@ On Mac, you should download the .dmg, .pkg, or .zip package. They should all wor
 Currently, there is no single centralized place for plugins. You can find some by searching on Github, but the plugins feature is not very popular and there aren't that many. We're working on changing that, so if you make a plugin, make sure to let us know. There is also a channel for sharing plugins on Discord.
 
 We want to create more sample plugins in the future as examples for plugin creators to base their work on.
+
+## Where can I suggest new features?
+
+We have a board for that here: [https://nuclear.featureupvote.com/](https://nuclear.featureupvote.com)
+
+You can either propose new ones or vote on existing features.
+
+You can also create a thread on Github: [https://github.com/nukeop/nuclear/issues/new?assignees=\&labels=feature+request\&template=feature\_request.md\&title=](https://github.com/nukeop/nuclear/issues/new?assignees=\&labels=feature+request\&template=feature\_request.md\&title=)
