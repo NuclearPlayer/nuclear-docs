@@ -8,11 +8,11 @@ description: How to run Nuclear in development mode and start coding
 
 Ensure that you have installed the prerequisites:
 
-* Node.js v.12 \(note that v.14 **will not work** because of an incompatibility in one of the dependencies\)
-* npm v.6
+* Node.js LTS (16)
+* npm v8
 * git
 * Your platform's build tools required to recompile native dependencies
-* Linux is recommended \(but not required\) for development
+* Linux is recommended (but not required) for development
 
 ### Quickstart
 
@@ -29,7 +29,7 @@ $ cd nuclear
 $ npm install
 ```
 
-This will install the dependencies in the project root, then use lerna to install the dependencies of individual packages.
+This will install the dependencies in the project root, and automatically link the local packages with lerna.
 
 Next, you can run the tests:
 
@@ -54,4 +54,3 @@ Replace `<version>` with a string that will be added to the filenames of the bui
 Replace `<platform>` with the name of your platform: `linux`, `macos`, `windows` or `all`.
 
 The binaries will be created in `<root>/release`.
-

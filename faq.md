@@ -72,7 +72,7 @@ We want to create more sample plugins in the future as examples for plugin creat
 
 ## Where can I suggest new features?
 
-We have a board for that here: [https://nuclear.featureupvote.com/](https://nuclear.featureupvote.com)
+We have a board for that here: [https://nuclear.featureupvote.com/](https://nuclear.featureupvote.com/)
 
 You can either propose new ones or vote on existing features.
 
