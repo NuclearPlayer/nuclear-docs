@@ -5,6 +5,7 @@
 
 ## User manual
 
+* [Sources](user-manual/sources.md)
 * [Keyboard shortcuts](user-manual/keyboard-shortcuts.md)
 * [Importing playlists](user-manual/importing-playlists.md)
 
@@ -30,4 +31,3 @@
   * [Identity service](nuclear-web-services/apis/identity-service/README.md)
     * [Authentication](nuclear-web-services/apis/identity-service/authentication.md)
     * [/users](nuclear-web-services/apis/identity-service/users.md)
-
