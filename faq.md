@@ -64,6 +64,14 @@ This is an archive containing compressed binary files and other assets. It shoul
 
 On Mac, you should download the .dmg, .pkg, or .zip package. They should all work the same way.
 
+## Why does it play wrong songs sometimes?
+
+As opposed to players that maintain their own music libraries like Spotify or Deezer, Nuclear has to find music streams based on the name of the artist and the track title. This process is imperfect and can sometimes lead to wrong streams being played. Here's what you can do to mitigate it:
+
+* Right click the track in the queue and select a different stream
+* Select a different streaming source if you can't find the correct stream on the list - maybe it's not available in that source
+* In the future we will add a system where you'll be able to verify streams so that this process of finding correct streams is outsourced
+
 ## Where can I find plugins?
 
 Currently, there is no single centralized place for plugins. You can find some by searching on Github, but the plugins feature is not very popular and there aren't that many. We're working on changing that, so if you make a plugin, make sure to let us know. There is also a channel for sharing plugins on Discord.
