@@ -8,6 +8,8 @@
 * [Sources](user-manual/sources.md)
 * [Keyboard shortcuts](user-manual/keyboard-shortcuts.md)
 * [Importing playlists](user-manual/importing-playlists.md)
+* [How does Nuclear find the streams?](user-manual/how-does-nuclear-find-the-streams.md)
+* [Stream verification](user-manual/stream-verification.md)
 
 ## Developer resources
 

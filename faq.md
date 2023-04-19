@@ -18,11 +18,11 @@ Every file contains the same version of Nuclear, there are no functional differe
 
 First, click "Releases":
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (10).png>)
 
 You will see a list of releases. Find the most recent one (at the top), and click "Assets".
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 You will see a list of files. You only need one of those files.
 
