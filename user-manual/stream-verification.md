@@ -16,7 +16,7 @@ The box applies to the currently playing track and can be in one of five states:
 
 #### Unknown
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 This probably means it's still loading, or maybe the verification service errored out. Either way you can't verify it, and you don't know which streams are verified. Nuclear keeps working as normal.
 

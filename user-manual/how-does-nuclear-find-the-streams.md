@@ -18,5 +18,5 @@ Despite the potential for inaccuracies, Nuclear offers an impressive selection o
 To change the stream selected by Nuclear, simply right-click the track and choose a new source from the dropdown menu.
 
 \
-![](<../.gitbook/assets/image (9).png>)![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (9).png>)![](<../.gitbook/assets/image (1) (2).png>)
 {% endhint %}

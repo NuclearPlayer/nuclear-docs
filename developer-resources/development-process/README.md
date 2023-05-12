@@ -8,10 +8,11 @@ description: How to run Nuclear in development mode and start coding
 
 Ensure that you have installed the prerequisites:
 
-* Node.js LTS (16)
+* Node.js LTS (18)
 * npm v8
 * git
-* Your platform's build tools required to recompile native dependencies
+* Your platform's build tools required to recompile native dependencies.
+  * Node-gyp is the tool we use to recompile them. It will be installed automatically, but you need to install its dependencies yourself. Check how to do it here: [https://github.com/nodejs/node-gyp#installation](https://github.com/nodejs/node-gyp#installation)
 * Linux is recommended (but not required) for development
 
 ### Quickstart

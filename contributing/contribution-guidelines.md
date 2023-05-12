@@ -23,3 +23,8 @@ Before you commit your code:
 * Add new visual components to Storybook (`*.stories.tsx` files). It's nice if you can also show us some screenshots in the pull request for reference.
 * Please do not commit `package-lock.json` files if you haven't changed any dependencies. If you have, please make sure that the diff is minimal and only contains the changed packages.
 
+{% hint style="warning" %}
+<img src="../.gitbook/assets/image (3).png" alt="" data-size="original">\
+**Nuki says:** "Make sure to only include the files necessary for your feature or bugfix. DO NOT include `package-lock.json`, unless you've changed the dependencies. And write tests, or I will have your head!"
+{% endhint %}
+
