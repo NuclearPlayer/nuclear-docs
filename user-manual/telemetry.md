@@ -1,0 +1,3 @@
+# Telemetry
+
+There is none.

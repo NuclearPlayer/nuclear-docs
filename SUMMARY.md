@@ -10,6 +10,7 @@
 * [Importing playlists](user-manual/importing-playlists.md)
 * [How does Nuclear find the streams?](user-manual/how-does-nuclear-find-the-streams.md)
 * [Stream verification](user-manual/stream-verification.md)
+* [Telemetry](user-manual/telemetry.md)
 
 ## Developer resources
 
