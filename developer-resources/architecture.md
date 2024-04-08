@@ -22,9 +22,12 @@ This package contains translations and scripts related to maintaining them.
 
 #### main
 
-This package contains the server side Electron code, which handles Electron initialization, functionalities related to the program window, and services \(such as handling the tray icon, Discord rich presence, downloads, and anything else that can't be done in the web app\).
+This package contains the server side Electron code, which handles Electron initialization, functionalities related to the program window, and services (such as handling the tray icon, Discord rich presence, downloads, and anything else that can't be done in the web app).
 
 #### ui
 
 This package contains functionality-agnostic UI components, and a Storybook-based demo page for them. These components are imported and used by the `app` package to build the interface.
 
+#### scanner
+
+Local library scanner. This is a Rust crate compiled to a native Node module. This utility used to be written in Node, but was remade in Rust for performance gains.
