@@ -2,13 +2,16 @@
 
 #### About
 
-Nuclear is a free music streaming program that pulls content from free sources all over the internet.
+Nuclear is a free music streaming program that pulls content from various free sources.
 
-This means that you can search for your favorite artists, albums, and songs, and the player will find information about them, as well as song streams, aggregating data from multiple sources.
+This means that you can search for your favorite artists, albums, and songs, and the player will find information about them, as well as song streams, lyrics, music recommendations, and more, aggregating data from multiple sources.
+
+Nuclear has no ads and no tracking.
 
 #### Developer resources
 
-* [Plugin API](developer-resources/plugin-api.md)
+* [How to start coding](developer-resources/development-process/)
+* [Architecture](developer-resources/architecture.md)
 
 #### Links
 
@@ -16,10 +19,10 @@ This means that you can search for your favorite artists, albums, and songs, and
 | -------- | -------------------------------------------------------------------------- |
 | Website  | [https://nuclear.js.org](https://nuclear.js.org)                           |
 | Github   | [https://github.com/nukeop/nuclear](https://github.com/nukeop/nuclear)     |
-| Gitbook  | [https://nukeop.gitbook.io/nuclear/](https://nukeop.gitbook.io/nuclear/)   |
-| Mastodon | [https://mstdn.io/@nuclear](https://mstdn.io/@nuclear)                     |
-| Twitter  | [https://twitter.com/nuclear\_player](https://twitter.com/nuclear\_player) |
 | Discord  | [https://discord.gg/JqPjKxE](https://discord.gg/JqPjKxE)                   |
+| Mastodon | [https://mstdn.io/@nuclear](https://mstdn.io/@nuclear)                     |
+| Gitbook  | [https://nukeop.gitbook.io/nuclear/](https://nukeop.gitbook.io/nuclear/)   |
+| Twitter  | [https://twitter.com/nuclear\_player](https://twitter.com/nuclear\_player) |
 
 **Packages**
 
