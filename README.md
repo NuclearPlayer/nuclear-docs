@@ -17,7 +17,7 @@ Nuclear has no ads and no tracking.
 
 | Site     | Website                                                                    |
 | -------- | -------------------------------------------------------------------------- |
-| Website  | [https://nuclear.js.org](https://nuclear.js.org)                           |
+| Website  | [https://nuclearplayer.com/](https://nuclearplayer.com/)                   |
 | Github   | [https://github.com/nukeop/nuclear](https://github.com/nukeop/nuclear)     |
 | Discord  | [https://discord.gg/JqPjKxE](https://discord.gg/JqPjKxE)                   |
 | Mastodon | [https://mstdn.io/@nuclear](https://mstdn.io/@nuclear)                     |
